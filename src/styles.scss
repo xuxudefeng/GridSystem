@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+html,
+body {
+  touch-action: none;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden;
+  font-family: Regular;
+  textarea {
+    font-family: Regular;
+  }
+  user-select: auto !important;
+}
